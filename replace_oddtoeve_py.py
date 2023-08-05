@@ -1,0 +1,1 @@
+l=list(eval(input))
